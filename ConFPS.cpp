@@ -1,8 +1,13 @@
 
 /*
 * -------------------------------
-* First Person Shooter in Console 
+* First Person Shooter in Console
+* -------------------------------
+* Entirely indebted to a video by
 * --- OneLoneCoder -- YouTube ---
+* -------------------------------
+* --- Adapted for recreation ----
+* ------  and edification -------
 * -------------------------------
 * 
 * To do:- 
